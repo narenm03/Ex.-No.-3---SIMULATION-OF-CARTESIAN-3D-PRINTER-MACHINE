@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+# Ex. No.05  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
@@ -60,8 +60,23 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/8baed824-a260-47c0-b3eb-c812da2c5864)
+
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/40cb2cd0-9be0-4185-9636-87e548cb5354)
+
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/c0767f0f-4910-4e82-8784-181f20d0e31c)
+
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/a3d3a101-84a4-4b09-b56a-149825918803)
+
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/f57bd9d7-4fc2-4f96-829a-0c76709525ad)
+
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/d471860c-7e66-4241-a76a-fb0701ebd547)
+
+
+
+
+### Name: NARENDHARAN.M
+### Register Number: 212223230134
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
